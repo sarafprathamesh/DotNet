@@ -1,2 +1,1 @@
-# 
-DelegateMethod
+# DelegateMethod
