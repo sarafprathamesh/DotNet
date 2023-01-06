@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+
+<div>
+    <form>
+        User Name : <input type="text" name="username" required> <br>
+        Password : <input type="password" name="password" required >
+@* pattern="[A-Za-z][#%$&*!]{8}" *@
+        <button type="submit" formaction="/home/validation">Login</button>
+        <button type="submit" formaction="/home/createuser">Sign Up</button>
+    </form>
+</div>
