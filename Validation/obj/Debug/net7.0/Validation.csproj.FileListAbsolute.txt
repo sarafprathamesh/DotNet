@@ -29,3 +29,34 @@ D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Assignments\Validation\obj\D
 D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Assignments\Validation\obj\Debug\net7.0\Validation.pdb
 D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Assignments\Validation\obj\Debug\net7.0\Validation.genruntimeconfig.cache
 D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Assignments\Validation\obj\Debug\net7.0\ref\Validation.dll
+D:\Github data\Prathamesh Git\DotNet\Validation\bin\Debug\net7.0\appsettings.Development.json
+D:\Github data\Prathamesh Git\DotNet\Validation\bin\Debug\net7.0\appsettings.json
+D:\Github data\Prathamesh Git\DotNet\Validation\bin\Debug\net7.0\Validation.staticwebassets.runtime.json
+D:\Github data\Prathamesh Git\DotNet\Validation\bin\Debug\net7.0\Validation.exe
+D:\Github data\Prathamesh Git\DotNet\Validation\bin\Debug\net7.0\Validation.deps.json
+D:\Github data\Prathamesh Git\DotNet\Validation\bin\Debug\net7.0\Validation.runtimeconfig.json
+D:\Github data\Prathamesh Git\DotNet\Validation\bin\Debug\net7.0\Validation.dll
+D:\Github data\Prathamesh Git\DotNet\Validation\bin\Debug\net7.0\Validation.pdb
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.csproj.AssemblyReference.cache
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.AssemblyInfoInputs.cache
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.AssemblyInfo.cs
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.csproj.CoreCompileInputs.cache
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.MvcApplicationPartsAssemblyInfo.cache
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.RazorAssemblyInfo.cache
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.RazorAssemblyInfo.cs
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\staticwebassets\msbuild.Validation.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\staticwebassets\msbuild.build.Validation.props
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Validation.props
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Validation.props
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\staticwebassets.build.json
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\staticwebassets.development.json
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\scopedcss\bundle\Validation.styles.css
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\scopedcss\projectbundle\Validation.bundle.scp.css
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.dll
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\refint\Validation.dll
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.pdb
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\Validation.genruntimeconfig.cache
+D:\Github data\Prathamesh Git\DotNet\Validation\obj\Debug\net7.0\ref\Validation.dll
