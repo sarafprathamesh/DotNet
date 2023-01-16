@@ -1,0 +1,78 @@
+Microsoft Windows [Version 10.0.19044.2364]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet new mvc -o MVC
+The template "ASP.NET Core Web App (Model-View-Controller)" was created successfully.
+This template contains technologies from parties other than Microsoft, see https://aka.ms/aspnetcore/7.0-third-party-notices for details.
+
+Processing post-creation actions...
+Restoring D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\MVC\MVC.csproj:
+  Determining projects to restore...
+  Restored D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\MVC\MVC.csproj (in 188 ms).
+Restore succeeded.
+
+
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet new sln
+The template "Solution File" was created successfully.
+
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet new classlib -o DAL
+The template "Class Library" was created successfully.
+
+Processing post-creation actions...
+Restoring D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\DAL.csproj:
+  Determining projects to restore...
+  Restored D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\DAL.csproj (in 115 ms).
+Restore succeeded.
+
+
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet new classlib -o BOL
+The template "Class Library" was created successfully.
+
+Processing post-creation actions...
+Restoring D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BOL\BOL.csproj:
+  Determining projects to restore...
+  Restored D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BOL\BOL.csproj (in 117 ms).
+Restore succeeded.
+
+
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet new classlib -o BLL
+The template "Class Library" was created successfully.
+
+Processing post-creation actions...
+Restoring D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\BLL.csproj:
+  Determining projects to restore...
+  Restored D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\BLL.csproj (in 111 ms).
+Restore succeeded.
+
+
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>cd DAL
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL>cd ..
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet sln add DAL/DAL.csproj
+Project `DAL\DAL.csproj` added to the solution.
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet sln add BLL/BLL.csproj
+Project `BLL\BLL.csproj` added to the solution.
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet sln add BOL/BOL.csproj
+Project `BOL\BOL.csproj` added to the solution.
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>dotnet sln add MVC/MVC.csproj
+Project `MVC\MVC.csproj` added to the solution.
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module>cd MVC
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\MVC>dotnet add reference ../BLL/BLL.csproj
+Reference `..\BLL\BLL.csproj` added to the project.
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\MVC>dotnet add reference ../BOL/BOL.csproj
+Reference `..\BOL\BOL.csproj` added to the project.
+
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\MVC>dotnet add package mysql.data

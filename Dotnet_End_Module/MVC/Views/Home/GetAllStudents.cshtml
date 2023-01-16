@@ -1,0 +1,19 @@
+@using BOL;
+
+
+@{
+    ViewData["Title"] = "GetAllStudents Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Students</h1>
+    @{
+        List<Student> student=(List<Student>) ViewData["AllStudents"];
+            <table border="2px">
+                <tr><th>Student Address</th><th>Student Name </th><th>Student Address</th><th>Student Course</th></tr>
+                @foreach(Student stud in student){
+                    <tr><td>@stud.RollNo</td><td>@stud.Name</td><td>@stud.Address</td><td>@stud.Course</td></tr>
+                }
+            </table>
+    }
+</div>

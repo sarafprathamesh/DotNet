@@ -1,0 +1,19 @@
+@using BOL;
+
+
+@{
+    ViewData["Title"] = "GetAllDepartments Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Departments</h1>
+    @{
+        List<Department> department=(List<Department>) ViewData["AllDepartments"];
+            <table border="2px">
+                <tr><th>Department No </th><th>Department Name </th><th>Department Location </th></tr>
+                @foreach(Department dept in department){
+                    <tr><td>@dept.DeptNo</td><td>@dept.DName</td><td>@dept.Location</td></tr>
+                }
+            </table>
+    }
+</div>

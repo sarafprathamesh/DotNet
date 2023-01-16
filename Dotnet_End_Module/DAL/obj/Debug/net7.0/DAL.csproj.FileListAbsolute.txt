@@ -1,0 +1,15 @@
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\bin\Debug\net7.0\DAL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\bin\Debug\net7.0\DAL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\bin\Debug\net7.0\BOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\bin\Debug\net7.0\BOL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\DAL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\DAL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\DAL\obj\Debug\net7.0\ref\DAL.dll

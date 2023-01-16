@@ -1,0 +1,17 @@
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\bin\Debug\net7.0\BLL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\bin\Debug\net7.0\BLL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\bin\Debug\net7.0\BOL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\bin\Debug\net7.0\DAL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\bin\Debug\net7.0\DAL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\bin\Debug\net7.0\BOL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\BLL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\BLL.pdb
+D:\IACSD PG-DAC Roll No. - 29,60\Assignments\DotNet\Prathamesh\Dotnet_End_Module\BLL\obj\Debug\net7.0\ref\BLL.dll
