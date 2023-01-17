@@ -122,5 +122,55 @@ public class DBManager
         }
         return status;
     }
+    
+    public static bool UpdateStudent(Student student)
+    {
+        bool status = false;
+        string query = "update student set name='" + student.Name + "' and address='" + student.Address + "' and course='" + student.Course + "where rollno=" + student.RollNo;
+
+        MySqlConnection con = new MySqlConnection();
+        con.ConnectionString = ConString;
+        try
+        {
+            con.Open();
+            MySqlCommand cmd = new MySqlCommand(query, con);
+            cmd.ExecuteNonQuery();
+            status = true;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+        finally
+        {
+            con.Close();
+        }
+        return status;
+    }
+
+    public static bool DeleteStudent(int id)
+    {
+        bool status = false;
+        string query = "delete from student where rollno=" + id;
+
+        MySqlConnection con = new MySqlConnection();
+        con.ConnectionString = ConString;
+        try
+        {
+            con.Open();
+            MySqlCommand cmd = new MySqlCommand(query, con);
+            cmd.ExecuteNonQuery();
+            status = true;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+        finally
+        {
+            con.Close();
+        }
+        return status;
+    }
 
 }
